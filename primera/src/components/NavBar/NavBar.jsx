@@ -2,9 +2,6 @@ import React from 'react'
 import CartWidget from '../CartWidget/CartWidget'
 import { Heading, Menu, MenuButton, MenuList, MenuItem, Button} from '@chakra-ui/react'
 import { HiChevronDown } from "react-icons/hi2";
-import {
-    
-  } from '@chakra-ui/react'
 
 const NavBar = () => {
   return (
